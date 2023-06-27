@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+.header{
+    background-image: url('../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    height: 70vh;
+
+}
+.text-center{
+    margin-bottom: 0;
+}
+p.text-center.wels {
+    margin-top: -75px !important;
+}
+.section-one{
+    float: left;
+    width: 100%;
+}
+.d-flex {
+    display: flex!important;
+    text-align: center;
+}
+.section-two{
+    background-color: #5385C1;
+}
+.col-xl-2 {
+    flex: 0 0 auto;
+    width: 23.666667% !important;
+}
+img.sec-one-img {
+    border-radius: 100px;
+    margin-top: 20px;
+}
+.wels{
+    text-align: center;
+}
+.pic{
+    width: 90%;
+}
